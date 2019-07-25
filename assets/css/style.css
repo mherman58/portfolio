@@ -1,0 +1,28 @@
+body {
+    background-color: lightcyan;
+}
+
+
+.jumbotron {
+    background-color: lavender;
+    background-image: url('https://img.freepik.com/free-vector/vibrant-pink-watercolor-painting-background_53876-58930.jpg?size=626&ext=jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title {
+    color: rgb(229, 148, 247);
+    text-decoration: underline;
+    text-decoration-color: purple;
+    font-size: 32px;
+
+}
+.footer {
+    color: white;
+    position: fixed;
+    bottom: 0px;
+    padding: 10px;
+    background-color: black;
+    text-align: center;
+    width: 100vw;
+}
